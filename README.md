@@ -14,3 +14,12 @@ pento为什么要在bitcoke上做合约？
 https://www.bitcoke.com/WiM4Rr
 使用喷头推荐地址注册交易费节省30%
 ```
+
+## 更新日志
+
+2019-10-18
+
+```
+pento 文章更新
+```
+
